@@ -2,9 +2,6 @@
 __pycache__/
 *.pyc
 
-# Streamlit
-.streamlit/
-
 # Data hasil gambar (opsional — hapus baris ini jika ingin menyimpan hasil ke Git)
 data/jawa/
 data/bali/
