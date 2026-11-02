@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Data hasil gambar (opsional — hapus baris ini jika ingin menyimpan hasil ke Git)
+data/jawa/
+data/bali/
+data/metadata.csv
+
+# OS
+.DS_Store
+Thumbs.db
